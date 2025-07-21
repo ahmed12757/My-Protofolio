@@ -1,12 +1,40 @@
-# React + Vite
+# 💼 My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **personal portfolio website** built using **React.js** and **Tailwind CSS** to showcase my skills, projects, and contact information as a Frontend Developer.
 
-Currently, two official plugins are available:
+🌐 **Live Demo**: [Visit Portfolio](https://my-protofolio-omega.vercel.app/)  
+📂 **Source Code**: [GitHub Repo](https://github.com/ahmed12757/My-Protofolio)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ **Responsive Design** – Works seamlessly on all devices (mobile, tablet, desktop).
+- 🎨 **Modern UI** – Clean and elegant interface.
+- 🛠️ **Built with React** – Component-based architecture for scalability.
+- ⚡ **Fast & Lightweight** – Optimized for performance.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS
+- **Animations:** Framer Motion
+- **Deployment:** GitHub Pages
+
+---
+
+## 📸 Screenshots
+
+![Home Page](/public/Screenshot%202025-07-21%20152655.jpg)
+![Projects Section](/public/Screenshot%202025-07-21%20152754.jpg)
+
+---
+
+## 📬 Contact
+
+If you want to get in touch:  
+📧 **Email**: ah8962083@example.com  
+🌐 [LinkedIn](www.linkedin.com/in/ahmed-mohammed-775445224)
+
+---
