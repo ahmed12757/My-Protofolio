@@ -32,7 +32,7 @@ export default function Home() {
       <div className="w-full overflow-hidden">
         <div className="relative bg-black  ">
           <video
-            className="absolute inset-0 z-30 object-cover w-full h-full pointer-events-none"
+            className="absolute inset-0 z-30 object-cover w-full h-screen pointer-events-none"
             src="/output.webm"
             autoPlay
             muted
