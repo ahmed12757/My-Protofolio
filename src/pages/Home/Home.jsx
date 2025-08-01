@@ -2,7 +2,7 @@ import { FaLinkedin } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa";
 import { IoIosArrowDown } from "react-icons/io";
 import Ahmed from "../../images/+20 127 370 2465 20230418_233013.jpg";
-import cv from "../../pdfs/Ahmed_Mohamed_CV1.pdf";
+import cv from "../../pdfs/Ahmed_Mohamed_CV.pdf";
 import { motion } from "framer-motion";
 import { IoArrowDownOutline, IoMailUnread } from "react-icons/io5";
 
