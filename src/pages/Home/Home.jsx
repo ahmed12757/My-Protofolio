@@ -150,7 +150,9 @@ export default function Home() {
               >
                 ●
               </motion.span>
-              <span className="text-2xl text-gray-50 ">available for work</span>
+              <span className=" text-sm text-gray-3000 ">
+                available for work
+              </span>
             </motion.p>
             <motion.h1
               className="mt-2 text-3xl font-medium text-white md:text-4xl"
@@ -174,7 +176,7 @@ export default function Home() {
 
             {/* Social Icons */}
             <motion.div
-              className="flex items-center mt-4 text-xl text-gray-50 gap-7"
+              className="flex items-center mt-4 text-xl text-gray-300 gap-7"
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ duration: 2.5 }}
