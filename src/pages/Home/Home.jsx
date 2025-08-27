@@ -216,6 +216,9 @@ export default function Home() {
               <IoIosArrowDown className="mt-10 text-xl text-white" />
             </motion.div>
           </div>
+          <div className="bg-black/20 h-screen w-full absolute top-0 left-0 right-0 bottom-0">
+            <Design />
+          </div>
         </div>
 
         {/* Sections */}
